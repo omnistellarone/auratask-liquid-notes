@@ -5,6 +5,9 @@ A modern, responsive productivity application featuring a **sleek liquid glass U
 - **Left Panel**: Dynamic Task Management (todos, categories, priority tags, progress bar, search, and filters).
 - **Right Panel**: Liquid Glass Rich Notes Workspace (rich-text editor, document/image attachments, voice recording with live timer, and custom audio player).
 
+- **GitHub Repository**: [omnistellarone/auratask-liquid-notes](https://github.com/omnistellarone/auratask-liquid-notes)
+- **Live Production URL**: [https://auratask-liquid-notes.vercel.app](https://auratask-liquid-notes.vercel.app)
+
 ---
 
 ## 2. Tech Stack
